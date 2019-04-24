@@ -1,3 +1,3 @@
-# hello-world
+# Practice Exercise on pandas
 Practice
 
